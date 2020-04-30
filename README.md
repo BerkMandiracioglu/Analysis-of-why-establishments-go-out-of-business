@@ -9,7 +9,7 @@ This project aims at analyzing the Food inspections dataset of the city of Chica
 * Is there a correlation between a business’s age and it going out of business?
 
 # Data set
-We will use the provided data set called Chicago Food Inspections (https://www.kaggle.com/chicago/chicago-food-inspections). It is in a csv format and provides information such as violations, type of facility, and location. We try to gain more insight by augmenting our datset with other datasets provided by the city of Chicago. Those datasets are:
+We used the provided data set called Chicago Food Inspections (https://www.kaggle.com/chicago/chicago-food-inspections). It is in a csv format and provides information such as violations, type of facility, and location. We gain more insight by augmenting our datset with other datasets provided by the city of Chicago. Those datasets are:
 * Census Data - Selected socioeconomic indicators in Chicago (https://data.cityofchicago.org/Health-Human-Services/Census-Data-Selected-socioeconomic-indicators-in-C/kn9c-c2s2) - provides us socioeconomic information about each region separately.
 * Boundaries (https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Community-Areas-current-/cauq-8yn6) - provides detailed latitude and longitude of each reason. We use this to know in which region each of our establishments is by using latitude and longitude.
 
